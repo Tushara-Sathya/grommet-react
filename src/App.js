@@ -41,7 +41,7 @@ const Back = ({ navigate }) => (
       </Box>
       <Box height='30px' width='240px'truncate={true} align="center" justify="start" direction="row-responsive">
         <Instagram />
-        <Anchor href="https://www.instagram.com/mayu_00514/?hl=en" label="https://www.instagram.com/mayu_00514/?hl=en" size="small" margin={{ left: "xsmall" }} target="_blank" />
+        <Anchor href="https://www.instagram.com/mayu_00514/?hl=en" label="www.instagram.com/mayu_00514" size="small" margin={{ left: "xsmall" }} target="_blank" />
       </Box>
     </Box>
   </Box>
